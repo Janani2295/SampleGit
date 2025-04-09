@@ -11,7 +11,8 @@ public class SampleGit {
 		SampleGit sg=new SampleGit();
 		sg.m1();
 		sg.m2();
+		System.out.println("Done");
 	}
-	System.out.println("Done");
+	
 
 }
